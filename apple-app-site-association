@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "F478328R67.com.labhok.alpha.staging",
-				"paths": [ "/a/*"]
+				"paths": [ "/student/anonymous/test/*"]
 			}
 		]
 	}
