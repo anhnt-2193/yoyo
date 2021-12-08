@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "F478328R67.com.labhok.alpha",
+				"appID": "F478328R67.com.labhok.staging",
 				"paths": [ "/anonymous/student/test/*"]
 			}
 		]
